@@ -7,4 +7,5 @@ using namespace std;
 int main()
 {
 	cout << "Sending this text to Github" << endl;
+	cout << "Adding a line to pull on Visual Studio" << endl;
 }
